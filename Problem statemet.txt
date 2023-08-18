@@ -10,15 +10,15 @@ reviews hinders businesses from gaining insights into customer preferences, tren
 
 
 
-Problem Statement 5:
+Problem Statement 2:
 Amazon sellers struggle to extract actionable insights from the vast amount of customer feedback available 
 in product reviews. Traditional text-based analysis methods make it challenging to identify sentiment trends 
 and correlations across different product categories effectively. The absence of a visualized sentiment 
 analysis platform hinders sellers from gaining a comprehensive overview of customer perceptions,
  which is vital for making informed decisions about inventory, marketing, and customer engagement strategies.
 
-
-
+Problem Statement 3:
+"Develop a comprehensive sentiment analysis solution for E-Commerce businesses to harness the valuable insights hidden within customer reviews. The goal is to enable online retailers to gain a deep understanding of customer expectations and improve the shopping experience, ultimately boosting sales and optimizing product strategies. By accurately categorizing customer reviews into positive, negative, and neutral sentiments, the solution should facilitate product enhancement, enhance demand forecasting accuracy, and empower the identification of bestselling products."
 
 
 
