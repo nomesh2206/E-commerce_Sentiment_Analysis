@@ -28,16 +28,13 @@ The "Amazon Product Sentiment Analysis" project focuses on analyzing customer se
 8. **Comparison Analysis:**
    Compare sentiment scores of products within the same category and across different brands. Identify products with consistently positive or negative sentiment.
 
-9. **Time Trends Analysis:**
-   Analyze how sentiment changes over time for specific products or categories. Identify trends and patterns in sentiment that might be influenced by factors like product launches or seasonal changes.
-
-10. **Customer Feedback Insights:**
+9. **Customer Feedback Insights:**
     Derive insights from sentiment analysis that can guide product improvement strategies, marketing campaigns, and customer engagement initiatives.
 
-11. **Interactive Dashboard (Optional):**
+10. **Interactive Dashboard (Optional):**
     Build an interactive dashboard using tools like Tableau or Python libraries (e.g., Plotly) to visualize sentiment trends, category comparisons, and keyword insights.
 
-12. **Report and Recommendations:**
+11. **Report and Recommendations:**
     Summarize the findings from sentiment analysis and provide actionable recommendations for sellers and brands to enhance customer satisfaction, product quality, and overall customer experience.
 
 **Conclusion:**
