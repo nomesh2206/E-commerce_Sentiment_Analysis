@@ -1,0 +1,7 @@
+contractions
+nltk
+pandas
+wordcloud
+matplotlib
+seaborn
+streamlit
